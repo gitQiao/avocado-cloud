@@ -81,7 +81,7 @@
         <!-- mybatis-plus -->
         <mybatis-plus.version>3.2.0</mybatis-plus.version>
         <!-- mysql -->
-        <mysql.version>5.1.47</mysql.version>
+        <mysql.version>8.0.16</mysql.version>
         <!-- excel操作 -->
         <easypoi.version>4.2.0</easypoi.version>
         <!-- swagger -->
